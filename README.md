@@ -205,3 +205,5 @@ All security testing was performed against the simulated network created for thi
 **Amir Muhammad**
 Cybersecurity Student | Network Security | SOC & Defensive Security
 This repository represents part of my practical cybersecurity learning journey.
+## Password for this Lab
+CyberLab@2026
